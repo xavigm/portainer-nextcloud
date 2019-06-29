@@ -23,5 +23,5 @@ services:
     links:
       - db
     volumes:
-      - nextcloud:/var/www/html
+      - /sharedfolders/Nextcloud:/var/www/html
     restart: always
