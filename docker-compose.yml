@@ -11,8 +11,8 @@ services:
     volumes:
       - db:/var/lib/mysql
     environment:
-      - MYSQL_ROOT_PASSWORD=N3xtCl0ud!
-      - MYSQL_PASSWORD=nextcloud
+      - MYSQL_ROOT_PASSWORD=cisheOlkEg6Ow.
+      - MYSQL_PASSWORD=5ObdyeGlig?
       - MYSQL_DATABASE=nextcloud
       - MYSQL_USER=nextcloud
 
